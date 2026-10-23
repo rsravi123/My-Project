@@ -1,5 +1,9 @@
 # Advance Playwright Framework 3x
 
+[![Playwright Tests](https://github.com/rsravi123/My-Project/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/rsravi123/My-Project/actions/workflows/playwright.yml)
+[![Playwright](https://img.shields.io/badge/Playwright-1.64-45ba4b?logo=playwright&logoColor=white)](https://playwright.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 An end-to-end test automation framework built on **Playwright + TypeScript**, using the Page Object Model, environment-based configuration, data-driven test utilities, and a custom HTML reporter (the TTA report) with screenshots, videos and traces for every step.
 
 Built by [The Testing Academy](https://thetestingacademy.com).
